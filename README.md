@@ -1,4 +1,3 @@
-
 # Grim — Personal Portfolio
 
 Welcome to **Grim's Portfolio**, a sleek and modern personal site for showcasing your work as a Front-End Developer and UI/UX Designer.
@@ -9,7 +8,7 @@ This responsive HTML page features a glowing neon interface, elegant glassmorphi
 
 ## 🔥 Preview
 
-![Portfolio Screenshot](./Screenshot 2025-05-31 031802.png)
+![Portfolio Screenshot](./4f835611-ccbf-4f9f-8a30-ca4b80f3fc3c.png)
 
 ---
 
@@ -28,8 +27,7 @@ This responsive HTML page features a glowing neon interface, elegant glassmorphi
 ```bash
 📦grim-portfolio/
  ┣ 📄 index.html          # Main portfolio page
- ┣ 📄 README.md           # Project documentation
- ┗ 📄 background-loop.mp4 # Background video (optional)
+ ┗ 📄 background-loop.mp4 # Background video (not included in repo)
 ```
 
 ---
@@ -43,28 +41,32 @@ git clone https://github.com/your-username/grim-portfolio.git
 cd grim-portfolio
 ```
 
-### 2. Launch the site
+### 2. Open in your browser
 
-Just open `index.html` in your browser. No build tools required.
+Simply open the `index.html` file in any modern browser.
 
 ---
 
 ## 🛠️ Customization
 
-- Change the name or tagline by editing `<h1>` and `.tagline` in `index.html`
-- Replace `background-loop.mp4` with your own video
-- Update the social links and icons as needed
-- Modify styles inside the `<style>` tag for deeper customization
+To personalize the site:
+
+- **Change name & tagline**: Edit the `<h1>` and `.tagline` inside `index.html`
+- **Replace video background**: Swap `background-loop.mp4` with your own video file
+- **Update social links**: Modify the URLs in the `.buttons a` tags
+- **Style changes**: Tweak the embedded `<style>` section or extract it into a CSS file
 
 ---
 
-## 🌍 Deployment
+## 🌐 Deployment
 
-This is a static project — host it on:
+You can deploy this portfolio easily using:
 
 - [GitHub Pages](https://pages.github.com/)
 - [Vercel](https://vercel.com/)
 - [Netlify](https://www.netlify.com/)
+
+No backend or build process required — just drag and drop!
 
 ---
 
@@ -78,11 +80,17 @@ This is a static project — host it on:
 
 ## 📄 License
 
-MIT License © 2025 Grim
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 🧠 Inspiration
+
+Built with a focus on **visual design**, **performance**, and **simplicity** — inspired by modern personal branding portfolios and interactive web design.
 
 ---
 
 ## 🙌 Credits
 
-- Icons by [Font Awesome](https://fontawesome.com/)
-- Design by Grim
+- Video background: *You can add your source or credit here*
+- Icons: [Font Awesome](https://fontawesome.com/)
