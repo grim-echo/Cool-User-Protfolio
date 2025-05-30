@@ -8,7 +8,7 @@ This responsive HTML page features a glowing neon interface, elegant glassmorphi
 
 ## 🔥 Preview
 
-![Portfolio Screenshot](./4f835611-ccbf-4f9f-8a30-ca4b80f3fc3c.png)
+![Portfolio Screenshot](./Screenshot 2025-05-31 031802.png)
 
 ---
 
