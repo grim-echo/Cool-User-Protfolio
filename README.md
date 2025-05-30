@@ -1,26 +1,25 @@
 
 # Grim — Personal Portfolio
 
-Welcome to **Grim's Portfolio**, a visually stunning and modern personal site built to showcase your work as a Front-End Developer and UI/UX Designer.
+Welcome to **Grim's Portfolio**, a sleek and modern personal site for showcasing your work as a Front-End Developer and UI/UX Designer.
 
-This static HTML page features a **video background**, elegant **glassmorphism card design**, and direct links to your social profiles — perfect for making a strong first impression.
+This responsive HTML page features a glowing neon interface, elegant glassmorphism card, and direct links to your social media.
 
 ---
 
 ## 🔥 Preview
 
-![Portfolio Screenshot](./4f835611-ccbf-4f9f-8a30-ca4b80f3fc3c.png)
+![Portfolio Screenshot](./Screenshot 2025-05-31 031802.png)
 
 ---
 
 ## 🌟 Features
 
-- 🎥 Fullscreen autoplaying **video background**
-- ✨ Stylish **glassmorphism UI card**
-- 🧑‍💻 Name, tagline, and social links
-- 📱 Fully **responsive layout**
-- 🎨 Clean and modern **CSS animations**
-- ⚡ Font Awesome icons
+- 🎥 Fullscreen video background (optional)
+- 🧊 Glassmorphism card design with neon glow
+- 🌐 GitHub, Instagram, and Discord links
+- 📱 Fully responsive layout
+- 💡 Minimal, elegant style with animation
 
 ---
 
@@ -29,7 +28,8 @@ This static HTML page features a **video background**, elegant **glassmorphism c
 ```bash
 📦grim-portfolio/
  ┣ 📄 index.html          # Main portfolio page
- ┗ 📄 background-loop.mp4 # Background video (not included in repo)
+ ┣ 📄 README.md           # Project documentation
+ ┗ 📄 background-loop.mp4 # Background video (optional)
 ```
 
 ---
@@ -43,32 +43,28 @@ git clone https://github.com/your-username/grim-portfolio.git
 cd grim-portfolio
 ```
 
-### 2. Open in your browser
+### 2. Launch the site
 
-Simply open the `index.html` file in any modern browser.
+Just open `index.html` in your browser. No build tools required.
 
 ---
 
 ## 🛠️ Customization
 
-To personalize the site:
-
-- **Change name & tagline**: Edit the `<h1>` and `.tagline` inside `index.html`
-- **Replace video background**: Swap `background-loop.mp4` with your own video file
-- **Update social links**: Modify the URLs in the `.buttons a` tags
-- **Style changes**: Tweak the embedded `<style>` section or extract it into a CSS file
+- Change the name or tagline by editing `<h1>` and `.tagline` in `index.html`
+- Replace `background-loop.mp4` with your own video
+- Update the social links and icons as needed
+- Modify styles inside the `<style>` tag for deeper customization
 
 ---
 
-## 🌐 Deployment
+## 🌍 Deployment
 
-You can deploy this portfolio easily using:
+This is a static project — host it on:
 
 - [GitHub Pages](https://pages.github.com/)
 - [Vercel](https://vercel.com/)
 - [Netlify](https://www.netlify.com/)
-
-No backend or build process required — just drag and drop!
 
 ---
 
@@ -82,17 +78,11 @@ No backend or build process required — just drag and drop!
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## 🧠 Inspiration
-
-Built with a focus on **visual design**, **performance**, and **simplicity** — inspired by modern personal branding portfolios and interactive web design.
+MIT License © 2025 Grim
 
 ---
 
 ## 🙌 Credits
 
-- Video background: *You can add your source or credit here*
-- Icons: [Font Awesome](https://fontawesome.com/)
+- Icons by [Font Awesome](https://fontawesome.com/)
+- Design by Grim
